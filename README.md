@@ -1,17 +1,17 @@
 # Exercícios em Python3
  Minhas soluções para os exercícios em Python do [CursoemVideo](https://www.youtube.com/cursoemvideo)
 
-##[Mundo 1: Fundamentos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
+## [Mundo 1: Fundamentos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
 
-###[Aula 04 - Primeiros comandos em Python3](https://youtu.be/31llNGKWDdo)
+### [Aula 04 - Primeiros comandos em Python3](https://youtu.be/31llNGKWDdo)
 + **Exercício 001**: Crie um script Python que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas de acordo com o valor digitado.
 + **Exercício 002**: Crie um script Python que leia o dia, o mês e ano de nascimento de uma pessoa e mostre uma mensagem com a data formatada.
 + **Exercício 003**: Crie um script Python que leia dois números e tente mostrar a soma entre eles.
 
-###[Aula 06 - Tipos Primitivos e Saída de Dados](https://youtu.be/hdDHg1p3YVc)
+### [Aula 06 - Tipos Primitivos e Saída de Dados](https://youtu.be/hdDHg1p3YVc)
 + **Exercício 004**: Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
 
-###[Aula 07 - Operadores Aritméticos](https://youtu.be/Vw6gLypRKmY)
+### [Aula 07 - Operadores Aritméticos](https://youtu.be/Vw6gLypRKmY)
 + **Exercício 005**: Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor.
 + **Exercício 006**: Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada. SEM USAR A BIBLIOTECA MATH
 + **Exercício 007**: Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
@@ -24,7 +24,7 @@
 + **Exercício 014**: Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit.
 + **Exercício 015**: Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.
 
-###[Aula 08 - Utilizando Módulos](https://youtu.be/oOUyhGNib2Q)
+### [Aula 08 - Utilizando Módulos](https://youtu.be/oOUyhGNib2Q)
 + **Exercício 016**: Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção Inteira.
 + **Exercício 017**: Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo. Calcule e mostre o comprimento da hipotenusa.
 + **Exercício 018**: Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
@@ -32,7 +32,7 @@
 + **Exercício 020**: O mesmo professor do desafio 019 quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
 + **Exercício 021**: Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3.
 
-###[Aula 09 - Manipulando Texto](https://youtu.be/a7DH88vk2Sk)
+### [Aula 09 - Manipulando Texto](https://youtu.be/a7DH88vk2Sk)
 + **Exercício 022**: Crie um programa que leia o nome completo de uma pessoa e mostre:
  + O nome com todas as letras maiúsculas e minúsculas.
  + Quantas letras ao todo (sem considerar espaços).
@@ -43,7 +43,7 @@
 + **Exercício 026**: Faça um programa que leia uma frase pelo teclado e mostre quantas vezes aparece a letra "A", em que posição ela aparece a primeira vez e em que posição ela aparece a última vez.
 + **Exercício 027**: Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente. Ex: Ana Maria de Souza (primeiro = Ana; último = Souza.
 
-###[Aula 10 - Condições (Parte 1)](https://youtu.be/K10u3XIf1-Q)
+### [Aula 10 - Condições (Parte 1)](https://youtu.be/K10u3XIf1-Q)
 + **Exercício 028**: Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
 + **Exercício 029**: Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80Km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$7,00 por cada Km acima do limite.
 + **Exercício 030**: Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou ÍMPAR.
@@ -53,9 +53,9 @@
 + **Exercício 034**: Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$1250,00, calcule um aumento de 10%. Para os inferiores ou iguais, o aumento é de 15%.
 + **Exercício 035**: Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
 
-##[Mundo 2: Estruturas de Controle](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
+## [Mundo 2: Estruturas de Controle](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
 
-###[Aula 12 - Condições Aninhadas](https://youtu.be/j9bYDjaAYzw)
+### [Aula 12 - Condições Aninhadas](https://youtu.be/j9bYDjaAYzw)
 + **Exercício 036**: Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. Pergunte o valor da casa, o salário do comprador e em quantos anos ele vai pagar. A prestação mensal não pode exceder 30% do salário ou então o empréstimo será negado
 + **Exercício 037**: Escreva um programa em Python que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão: 1 para binário, 2 para octal e 3 para hexadecimal.
 + **Exercício 038**: Escreva um programa que leia dois números inteiros e compare-os. mostrando na tela uma mensagem:
@@ -90,7 +90,7 @@
  + 3x ou mais no cartão: 20% de juros
 + **Exercício 045**: Crie um programa que faça o computador jogar Jokenpô com você.
 
-###[Aula 13 - Estrutura de repetição for](https://youtu.be/cL4YDtFnCt4)
+### [Aula 13 - Estrutura de repetição for](https://youtu.be/cL4YDtFnCt4)
 + **Exercício 046**: Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artifício, indo de 10 até 0, com uma pausa de 1 segundo entre eles.
 + **Exercício 047**: Crie um programa que mostre na tela todos os números pares que estão no intervalo entre 1 e 50.
 + **Exercício 048**: Faça um programa que calcule a soma entre todos os números ímpares que são múltiplos de três e que se encontram no intervalo de 1 até 500.
